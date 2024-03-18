@@ -11,8 +11,12 @@ h1 {
 }
 
 h2 {
-    color: black
+    color: black;
     text-align: center;
+}
+
+p {
+    line-height: 1.4;
 }
 
 .center {
