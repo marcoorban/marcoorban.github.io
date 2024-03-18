@@ -1,8 +1,11 @@
 body {
     font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    margin: 0 auto;
 }
 
 h1 {
     background-color: aquamarine;
     color: red;
+    text-align: center;
 }
