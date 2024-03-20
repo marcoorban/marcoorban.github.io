@@ -38,3 +38,17 @@ iframe {
     margin-right: auto;
     width: 80%;
   }
+
+figcaption {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+img {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+div {
+    margin: 50px;
+}
