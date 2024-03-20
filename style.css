@@ -33,12 +33,16 @@ li {
   }
 
   .center2 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
+    width: 90%;
   }
 
+
+  .chad {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 iframe {
     display: block;
     margin-left: auto;
